@@ -30,10 +30,7 @@ function Home2() {
               <br />
               My field of Interest's are building new &nbsp;
               <i>
-                <b className="purple">Web Technologies and Automation </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Machine Learning .
+                <b className="purple">Web Technologies and Automation.
                 </b>
               </i>
               <br />
@@ -87,7 +84,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/harshit-paliwal-4879ab228/"
+                  href="https://www.linkedin.com/in/harshit-p-153468213/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"

@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Harshit Paliwal </span>
             from <span className="purple"> Delhi, India.</span>
             <br />
-            I am currently B.Tech. pre-final year student at  M.A.I.T. , Delhi.
+            I am currently B.Tech. final year student at  M.A.I.T. , Delhi.
             <br />
             I am developing scalable frontend-backend using Typescript and Nodejs
 automating workflows, managing cloud clusters.
